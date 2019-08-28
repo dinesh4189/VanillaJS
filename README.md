@@ -126,4 +126,56 @@ Implement _.get of lodash
 
 DPR and sprite images
 
-  
+===================================
+Round 1
+tell about ur self
+how can achive the RWD by using the CSS - flex
+what is flex how it's working
+how to make the inline element to block element by using the style
+what is closure
+Problem 1: 
+we have number pad form 1 to 9. as like as mobile dial pad. By default 5 is active. 
+1  2  3
+4 |5| 6
+7  8  9
+Event: 
+  /\
+<    >
+  \/
+we have up down right left arrow available. 
+whenever we are clicking the respective button it has to move the active
+how to write the code and logic
+
+Problem 2:
+we have the array [1,2,3,4,5]. write the function with two parameters like one is direction another one is how many item have to move that direction
+direction param is right or left
+move count of the item form which should not exist arrat length
+
+Example:
+sample("right", 2) 
+output like [3,4,5,1,2]
+
+Problem 3:
+we have the array like [1,2,4,"chennai", true, {name:"dinesh"}, [true, null, 6, "bangalore", true, [7, {lname: "kumar"}, false, "mumbai"]]]
+
+make it as a one array.
+
+Problem 4:
+how ur creating the CSS style for the confirmation box
+with HTML and CSS code 
+position
+z-index
+opacity
+
+Round 2:
+what is hosting 
+Problem 1:
+a()
+var a = function() { console.log('hello'); }
+Output: ?
+Problem 2:
+a() 
+function a() { console.log(" hi ");}
+Output: ?
+
+
