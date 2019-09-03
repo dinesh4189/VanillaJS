@@ -1,47 +1,56 @@
 # venilaJS
+
 Practice
 
-Interview questions from jitin 
---reverse the array of numbers or string without using any temp variable and reverse function
---Fibonacci series in O(n)
--- Find all unique pair of elements in an array with given sum in O(n)
--- Implement Promises in javascript
--- Implement the Promise.all and Promise.any
---Http vs Https, how https protects from attacks and name some of them
---Different types of cookies
---JWT token implementation and what all info it contains
---Cors
---reverse a string but leave the special character in between if any.
-===================
+Interview questions from jitin
+
+1. reverse the array of numbers or string without using any temp variable and reverse function
+2. Fibonacci series in O(n)
+3. Find all unique pair of elements in an array with given sum in O(n)
+4. Implement Promises in javascript
+5. Implement the Promise.all and Promise.any
+6. Http vs Https, how https protects from attacks and name some of them
+7. Different types of cookies
+8. JWT token implementation and what all info it contains
+9. Cors
+10. reverse a string but leave the special character in between if any.
+
+----------------------------------------------------------------------------------------
+
 alternative of promises other than callbacks if you can think of any
-==================
-- How to defer a continuous sync loop , such that any button can be clicked on DOM
--- Basically checking concept of event-loop in javascript
-- Number of squares on a chess board
-- Promise vs Callback
-- Ways to optimize webpage
-- Closure timer question
 
-====================================
-- Implement Native promise
-- Concept of immutablity general and ReactJs
-- React 15 vs React 16 Changes , in particular - getDerivedStateFromProps
+11. How to defer a continuous sync loop , such that any button can be clicked on DOM
+12. Basically checking concept of event-loop in javascript
+13. Number of squares on a chess board
+14. Promise vs Callback
+15. Ways to optimize webpage
+16. Closure timer question
 
-====================================
-Throttle & Debounce
-Native Bind
-PrimeNumber Optimised way
-Box Model
-Positioning
-Balanced Binary Tree
-Array Flattening
-Find pair == sum
+----------------------------------------------------------------------------------------
+
+17. Implement Native promise
+18. Concept of immutablity general and ReactJs
+19. React 15 vs React 16 Changes , in particular - getDerivedStateFromProps
+
+----------------------------------------------------------------------------------------
+
+20. Throttle & Debounce
+21. Native Bind
+22. PrimeNumber Optimised way
+23. Box Model
+24. Positioning
+25. Balanced Binary Tree
+26. Array Flattening
+27. Find pair == sum
+
+
 Hit any URL in the address bar. How the page loads.
-===========================
+
+----------------------------------------------------------------------------------------
+
 REACT HOC
 https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006
 
-================
 https://khan4019.github.io/front-end-Interview-Questions/sort.html
 https://www.geeksforgeeks.org/find-subarray-with-given-sum/
 
@@ -63,7 +72,8 @@ finding remainder without using modulus operator.
 GetDerived state in react 16.
 
 Fragments in react
-=========================
+
+==================
 symbol in ES6
 
 iterator and generator
