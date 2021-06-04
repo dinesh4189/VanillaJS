@@ -14,13 +14,13 @@
             for(var i=begin; i < finish; i++) {
                 result.push(arr[i]);
             }
-            return result;
+            finalArr = result;
         };
          
         function innerFun() {
-            finalArr = executionAndReturn(start, arr.length);
+            executionAndReturn(start, arr.length);
             if (end && 0 <= start && start <= end && arr.length >= end) {
-                finalArr = executionAndReturn(start, end);
+                executionAndReturn(start, end);
             }
             return finalArr;
         };
